@@ -1,0 +1,17 @@
+{
+	"name": "com.namnh.facebook-sdk-unity",
+	"version": "0.0.1",
+	"unity": "2018.1",
+	"displayName": "Facebook-SDK",
+	"description": "Facebook SDK version 7.15",
+	"keywords": [
+		"facebook"
+	],
+	"category": "Social",
+	"author": {
+		"name": "NamNH-1B"
+	},
+	"dependencies": {
+		"com.namnh.jar-resolver-unity": "https://github.com/nhnpro/Jar-Resolver-Unity-UPM.git#0.0.3"
+	}
+}
